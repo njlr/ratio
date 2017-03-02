@@ -1,0 +1,11 @@
+{
+  "name": "boost-ratio",
+  "dependencies": {
+    "boost-mpl": "1.63.0",
+    "boost-config": "1.63.0",
+    "boost-static-assert": "1.63.0",
+    "boost-integer": "1.63.0",
+    "boost-type-traits": "1.63.0",
+    "boost-core": "1.63.0"
+  }
+}
